@@ -1,0 +1,1 @@
+helm repo index --url https://sideit-prod.github.io/k8s-argo-wordpress/ .
